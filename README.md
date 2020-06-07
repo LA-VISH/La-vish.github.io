@@ -1,1 +1,1 @@
-# litecoin.network
+# Lavish network
